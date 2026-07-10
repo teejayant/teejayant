@@ -11,7 +11,7 @@
 
 
 
-### 🚀 About Me
+### 🍀 About Me
 
 🎓 B.Tech student in **Artificial Intelligence & Machine Learning** at **NIT Kurukshetra**.  
 🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI**.  
