@@ -23,45 +23,35 @@
 
 ### 🛠️ Tech Stack
 
+
 <p align="left">
-
-<img src="https://img.shields.io/badge/JavaScript-541533?style=for-the-badge&logo=javascript&logoColor=988289" />
-<img src="https://img.shields.io/badge/Python-722548?style=for-the-badge&logo=python&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/C++-541533?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/C-722548?style=for-the-badge&logo=c&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/MySQL-541533?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-
-<img src="https://img.shields.io/badge/NumPy-722548?style=for-the-badge&logo=numpy&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Pandas-541533?style=for-the-badge&logo=pandas&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/TensorFlow-722548?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/PyTorch-541533?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/OpenCV-722548?style=for-the-badge&logo=opencv&logoColor=ffffff" />
-
-<img src="https://img.shields.io/badge/Git-541533?style=for-the-badge&logo=git&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/GitHub-722548?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/VS_Code-541533?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Notion-722548?style=for-the-badge&logo=notion&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Vercel-541533?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
-
----
 
 ### 🔗 Connect With Me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/tanishka-jayant04">
-<img src="https://img.shields.io/badge/LinkedIn-541533?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-</a>
-
-<a href="mailto:tanishka.jayant28@gmail.com">
-<img src="https://img.shields.io/badge/Email-722548?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
-</a>
-
+  <a href="https://linkedin.com/in/linkedin.com/in/tanishka-jayant04" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tanishka.jayant28@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
+
+
 
 ### 📊 GitHub Stats
 
@@ -83,16 +73,12 @@
 
 ---
 
-### 🐍 Contribution Snake
+
+### 📅 Contribution Calendar
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teejayant/teejayant/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teejayant/teejayant/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/teejayant/teejayant/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://ghchart.rshah.org/722548/teejayant" alt="GitHub Contribution Calendar" />
 </p>
-
 ---
 
 ### 💭 Dev Quote
