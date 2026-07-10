@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/teejayant">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=988289&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Tanishka%20Jayant" alt="Hello! I'm Tanishka Jayant" />
@@ -5,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=775E88&center=true&vCenter=true&width=900&height=44&lines=B.Tech%20in%20AIML%20%40%20NIT%20Kurukshetra%20%7C%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20Computer%20Vision" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=775E88&center=true&vCenter=true&width=900&height=44&lines=B.Tech%20in%20AIML%20%40%20NIT%20Kurukshetra" alt="Typing headlines" />
 </p>
 
----
+
 
 ### 🚀 About Me
 
@@ -74,21 +75,9 @@
 ---
 
 
-### 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/722548/teejayant" alt="GitHub Contribution Calendar" />
-</p>
----
-
 ### 💭 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
----
-
-<p align="center">
-  ⭐ From <a href="https://github.com/teejayant"><b>teejayant</b></a>
-</p>
